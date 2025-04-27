@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "бот тг", "бот тг\бот тг.pyproj", "{37EC927C-AF9A-4C47-8401-DC6FF743F683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37EC927C-AF9A-4C47-8401-DC6FF743F683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37EC927C-AF9A-4C47-8401-DC6FF743F683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF8038F3-5043-405B-888D-AEF611CDA2F3}
+	EndGlobalSection
+EndGlobal
